@@ -1,3 +1,5 @@
+# Angular-Website
+
 This is a project of a Restaurant Website made using Angular.
 To view the website :
   1) Make sure your machine has Node-js installed.
