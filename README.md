@@ -13,11 +13,15 @@ To view the website :
   
               json-server --watch db.json -d 2000
               
-  5) Then, Navigate to the project folder i.e. Angular-Website in your Command Prompt and type the command:
+  5) Then, Navigate to the project folder i.e. Angular-Website in your Command Prompt and install the node-modules using the command:
   
-              npm start
+              npm install
               
-   6) Navigate to http://localhost:4200/ in your browser to view the website.
+   6) Launch the website by typing the following command :
+   
+               npm start
+              
+   7) Navigate to http://localhost:4200/ in your browser to view the website.
 
 # ConFusion
 
