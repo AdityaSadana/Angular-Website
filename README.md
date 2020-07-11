@@ -1,3 +1,22 @@
+This is a project of a Restaurant Website made using Angular.
+To view the website :
+  1) Make sure your machine has Node-js installed.
+  2) Install the Angular-cli and jsn-server using the commands: 
+  
+                npm install -g @angular/cli
+                npm i json-server
+    
+  3) Navigate to json-server folder in your command prompt
+  4) Start the json-server using the command:
+  
+              json-server --watch db.json -d 2000
+              
+  5) Then, Navigate to the project folder i.e. Angular-Website in your Command Prompt and type the command:
+  
+              npm start
+              
+   6) Navigate to http://localhost:4200/ in your browser to view the website.
+
 # ConFusion
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
